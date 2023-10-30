@@ -1,5 +1,5 @@
 # Home Value Price Prediction Using Machine Learning
-This project leverages Python along with popular data science libraries such as Pandas, NumPy, Matplotlib, and scikit-learn to predict home values in both the United States and the DFW Metroplex region. Our predictive model is built using data from the Federal Reserve and Zillow.
+This project leverages Python along with popular data science libraries such as Pandas, NumPy, Matplotlib, and scikit-learn to predict home values in both the United States and the DFW Metroplex region. Our predictive model is built using data from the Federal Reserve and Zillow. We will be documenting our progress with Jupyter Notebook.
 ## FILES USED
 . 'CPIAUCSL.csv' - Represents CPI (inflation measure).(Monthly)
 
